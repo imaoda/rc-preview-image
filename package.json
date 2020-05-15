@@ -1,6 +1,6 @@
 {
   "name": "rc-preview-image",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "preview image",
   "main": "index.js",
   "scripts": {
