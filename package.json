@@ -1,6 +1,6 @@
 {
   "name": "rc-preview-image",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "description": "preview image",
   "main": "index.js",
   "scripts": {
@@ -21,8 +21,5 @@
   "bugs": {
     "url": "https://github.com/imaoda/rc-preview-image/issues"
   },
-  "homepage": "https://github.com/imaoda/rc-preview-image#readme",
-  "dependencies": {
-    "raf": "^3.4.1"
-  }
+  "homepage": "https://github.com/imaoda/rc-preview-image#readme"
 }

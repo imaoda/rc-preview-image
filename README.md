@@ -48,15 +48,6 @@ previewImage('/1.png')
 
 ## Options
 
-可选增加回调
-
-```js
-previewImage('/1.png', {
-    fail() {},
-    success() {}
-})
-```
-
 可选预览多张图片，用户可左右滑动来切换图片
 
 ```js
@@ -66,7 +57,7 @@ previewImage(['/1.png', '/2,png'])
 预览多张图片时，可指定从第几张开始显示
 
 ```js
-previewImage(['/1.png', '/2,png'], {current: 1})
+previewImage(['/1.png', '/2,png'], 1)
 ```
 
 ## Tips
